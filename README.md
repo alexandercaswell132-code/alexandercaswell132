@@ -5,3 +5,5 @@ Hi, I'm Alex
 I'm an IT and cybersecurity student interested in computers, networking, cybersecurity, and technology.
 
 I'm currently developing my programming and IT skills and learning how to use GitHub.
+
+This repository was created for my programming class at the University of Cincinnati (UC).
